@@ -66,9 +66,4 @@ campus-iq/
     └── seed_data.py        # Sample data loader
 ```
 
-## 🎯 Resume Bullets
-
-- Built a content-based recommendation engine using TF-IDF vectorization and cosine similarity to personalise event, internship, and project suggestions for college students
-- Designed a normalized SQLite schema with full CRUD operations for student profiles, skills, interests, and campus opportunities
-- Integrated Anthropic Claude API into a campus chatbot with rule-based fallback and student-context-aware responses
-- Deployed a full-stack AI-powered web application on Streamlit Cloud with user authentication and real-time analytics dashboard
+ication on Streamlit Cloud with user authentication and real-time analytics dashboard
